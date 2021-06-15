@@ -29,4 +29,10 @@ Ensure that the following command is executed in the terminal from the location 
 ## What I learned:
 * How to use the argparse library to create a simple command line interface with custom validation functions for the input arguments.
 * How to raise exceptions in python.
-* How to use the audioSegment subpackage from pydub package to create an audio filter based on time. 
+* How to use the audioSegment subpackage from pydub package to create an audio filter based on time.
+
+## Possible Future Work:
+* Build a GUI
+* Add more options such as:
+  *  convert mp3 to wav and vice versa
+
