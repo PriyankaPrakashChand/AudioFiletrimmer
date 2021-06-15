@@ -9,8 +9,8 @@
   *  **pip install argparse**
 
 ## Command Line Interface Arguments:
-* -s/--start: The start time. Eg: 00:00:23
-* -e/--end: The end time. Eg: 00:00:23
+* -s/--start: The start time. hh:mm:ss Eg: 00:00:23
+* -e/--end: The end time.hh:mm:ss Eg: 00:00:23
 * -p/--path: Path to the full song. Eg: C:\Users\Priyanka\Desktop\songs\\<name_of_song>.mp3
     **All arguments are required**
 ## Sample CLI usage:
