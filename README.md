@@ -1,6 +1,6 @@
 # AudioFiletrimmer
 - This code allows us to trim the edges of an audio file (.wav or .mp3) using python without downloading complex software on your device.
-- The code includes a user-friendly command line interface for configuring the start and end time and for converting an mp3 file to a wav file and vice versa. 
+- The code includes a user-friendly command line interface for configuring the start and end time and the path of the song. 
 ## Dependancies
 * Ensure that ffmpeg is properly installed and added to path.
   * Refer to : https://www.wikihow.com/Install-FFmpeg-on-Windows
